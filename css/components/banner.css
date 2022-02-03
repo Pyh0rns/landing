@@ -1,0 +1,16 @@
+.banner {
+  height: 350px;
+  margin: 0 auto;
+  /* justify-content: center; */
+  object-fit: cover;
+  background-size: cover;
+  background-position:center ;
+  color: whitesmoke;
+  padding: 100px;
+}
+
+.banner h2 {
+  margin-bottom: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+}

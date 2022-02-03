@@ -1,0 +1,34 @@
+.footer {
+  height: 200px;
+  margin: 0 auto;
+  object-fit: cover;
+  background-size: cover;
+  background-position:center ;
+  color: whitesmoke;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+  padding: 75px;
+}
+
+.footer h2 {
+  color: darkgray;
+}
+
+.list-socials ul {
+  display: flex;
+  padding-left: 0px;
+}
+
+.list-socials ul li {
+  list-style: none;
+  margin: 10px;
+  font-size: 40px;
+  color: whitesmoke;
+  transition: all 0.5s ease-out;
+}
+
+.list-socials ul li:hover {
+  color: darkgray;
+  margin: 15px;
+  transition: all 0.5s ease-in;
+
+}

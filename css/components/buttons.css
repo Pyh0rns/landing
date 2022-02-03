@@ -1,0 +1,14 @@
+.btn-banner {
+  padding: 15px;
+  background-color: white;
+  opacity: 0.7;
+  color: darkgray;
+  border-radius: 25px;
+  transition: all 0.3s ease-out;
+}
+
+.btn-banner:hover {
+  opacity: 1;
+  padding: 18px;
+  transition: all 0.3s ease-in;
+}
