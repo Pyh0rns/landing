@@ -16,6 +16,12 @@
 .list-socials ul {
   display: flex;
   padding-left: 0px;
+  text-decoration: none;
+}
+
+.list-socials a:visited {
+  text-decoration: none;
+  color: whitesmoke;
 }
 
 .list-socials ul li {
@@ -24,6 +30,7 @@
   font-size: 40px;
   color: whitesmoke;
   transition: all 0.5s ease-out;
+
 }
 
 .list-socials ul li:hover {
